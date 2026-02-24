@@ -1,3 +1,4 @@
+*.pt
 *.txt
 *.jpg
 *.png
@@ -8,14 +9,11 @@
 *.h5
 *.pb
 *.onnx
-**/runs/
 **/logs/
 **/wandb/
 **/tensorboard/
 __pycache__/
-*.pyc
 .venv/
-env/
 .ipynb_checkpoints/
 data/
 datasets/
